@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Francesco Bozzano — fran0x4b</h1>
+<h1 align="center"> Francesco Bozzano — fran0x4b</h1>
 
 <p align="center">
   <em>Network Security Engineer | Blue Team | CSIRT</em>
@@ -48,3 +48,4 @@ I’m currently transitioning into a **CSIRT Lead** role, deepening my skills in
 <p align="center">
   <sub>“Defend, detect, and adapt — security is a continuous process.”</sub>
 </p>
+
