@@ -38,6 +38,18 @@ I’m currently transitioning into a **CSIRT Lead** role, deepening my skills in
 
 ---
 
+### 🗂 Portfolio Projects
+
+| Project | Link | Focus |
+|---------|------|-------|
+| Checkpoint Firewall Tuning | [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
+| Fortigate SD-WAN Hybrid Lab | [View](projects/fortigate_sdwan_lab/README.md) | Cloud Security |
+| Blue Team Labs – BEC-KY | [View](blue_team_labs/bec-ky_btlo/incident_report.md) | Incident Response |
+| Checkpoint API Automation | [View](scripts/checkpoint_api_test.ps1) | Automation |
+| Piggy BTLO Investigation | [View](blue_team_labs/piggy_btlo/README.md) | Network Forensics |
+
+---
+
 ### 📫 Contact
 - 📧 **Professional:** fran0x4b@protonmail.com  
 - 📧 **Personal:** francesco.bozzano@outlook.it  
@@ -48,4 +60,5 @@ I’m currently transitioning into a **CSIRT Lead** role, deepening my skills in
 <p align="center">
   <sub>“Defend, detect, and adapt — security is a continuous process.”</sub>
 </p>
+
 
