@@ -53,8 +53,7 @@ I’m currently transitioning into a **CSIRT Technical Lead** role, deepening my
 ### 📫 Contact
 - 📧 **Professional:** fran0x4b@protonmail.com  
 - 📧 **Personal:** francesco.bozzano@outlook.it  
-- 🌐 [GitHub – fran0x4b](https://github.com/fran0x4b)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/francesco-bozzano)
+- [LinkedIn](https://www.linkedin.com/in/francescobozzano/)
 
 
 ---
@@ -62,6 +61,7 @@ I’m currently transitioning into a **CSIRT Technical Lead** role, deepening my
 <p align="center">
   <sub>“Defend, detect, and adapt — security is a continuous process.”</sub>
 </p>
+
 
 
 
