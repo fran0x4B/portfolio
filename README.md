@@ -7,7 +7,7 @@
 <hr style="border: 0.5px solid #4c566a;">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Network_Security-Perimeter_Defense-2e3440?style=flat-square&logo=shield&logoColor=white">
+  <img src="https://img.shields.io/badge/Network_Security-/_Perimeter_Defense-2e3440?style=flat-square&logo=fortinet&logoColor=white">
   <img src="https://img.shields.io/badge/Blue_Team-Incident_Response-3b4252?style=flat-square&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/Cloud_Security-&_Automation-2e3440?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
@@ -70,6 +70,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
