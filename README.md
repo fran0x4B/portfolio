@@ -59,8 +59,10 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 ---
 
 <p align="center">
-  <sub>“Defend, detect, and adapt — security is a continuous process.”</sub>
+  <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
+—Marcel Proust”</sub>
 </p>
+
 
 
 
