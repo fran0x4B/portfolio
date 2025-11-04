@@ -52,9 +52,8 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 
 | Project | Link | Focus |
 |---------|------|-------|
-| Checkpoint Firewall Tuning Matrix | [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
-| Checkpoint API Automation with Powershell | [View](scripts/checkpoint_api_test.ps1) | Automation |
-| Azure Networking Automation Script | [View](projects/fortigate_sdwan_lab/README.md) | Cloud Security Automation |
+| Checkpoint Firewall Tuning and Automation| [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
+| Azure Networking Automation | [View](projects/azure_automation/README.md) | Cloud Security Automation |
 | Blue Team Labs Learning Notes| [View](blue_team_labs/README.md) | Security Operations |
 
 ---
@@ -71,6 +70,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
