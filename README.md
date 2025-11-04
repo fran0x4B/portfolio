@@ -59,10 +59,9 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 ---
 
 ### 📫 Contact
-💼 **LinkedIn:** [Francesco Bozzano](https://www.linkedin.com/in/francescobozzano/)  
-💻 **GitHub:** [fran0x4b](https://github.com/fran0x4b)  
-📧 **Email:** [fran0x4b@protonmail.com](mailto:fran0x4b@protonmail.com)
 
+💼 **LinkedIn:** [Francesco Bozzano](https://www.linkedin.com/in/francescobozzano/)  
+📧 **Email:** [fran0x4b@protonmail.com](mailto:fran0x4b@protonmail.com)
 
 ---
 
@@ -70,6 +69,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
