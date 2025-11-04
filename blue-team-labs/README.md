@@ -36,8 +36,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francesco-bozzano)  
-📧 **francesco.bozzano@outlook.it**
+💼 **LinkedIn:** [Francesco Bozzano](https://www.linkedin.com/in/francescobozzano/)  
+📧 **Email:** [fran0x4b@protonmail.com](mailto:fran0x4b@protonmail.com)
 
 ---
 
