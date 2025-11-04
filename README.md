@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Security-Perimeter_Defense-2e3440?style=flat-square&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/Blue_Team-Incident_Response-3b4252?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/CSIRT-Coordination-4c566a?style=flat-square&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud-Security-&-Automation-4c566a?style=flat-square&logo=target&logoColor=white">
 </p>
 
 ---
@@ -22,9 +22,9 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 
 ---
 
-### 🧰 Core Technologies
+### 🛠️ Core Skills
 - **Check Point** – Access Control, VPN, IPS tuning  
-- **Fortigate** – SD-WAN, Cloud networking, East-West inspection  
+- **Fortigate** – SD-WAN, Cloud networking, East-West inspection
 - **Microsoft Azure** – Hybrid networking & integration  
 - **Wireshark / TCPDUMP** – Network forensics & packet analysis  
 - **PowerShell / Python** – Automation & threat investigation scripts  
@@ -32,9 +32,19 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 ---
 
 ### 🚀 Current Focus
-- Building a personal **Detection Lab** (Azure + SIEM + honeynet)  
-- Developing **automation scripts** for Blue Team operations  
-- Enhancing **incident response** workflow documentation  
+- Transition from **Network Security Engineering** → **Security Operations**
+- Earn **Microsoft Certified: Azure Network Engineer Associate (AZ-700)**  
+- Earn **Blue Team Level 1 (BTL1)** certification  
+- Expand automation capabilities with **Python**, **Powershell** and **API integrations**
+
+---
+
+## 📜 Certifications in Progress
+
+| Certification | Description | Status |
+|----------------|-------------|---------|
+| ![Azure](https://img.shields.io/badge/Microsoft%20Certified-AZ--700-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white) | **Azure Network Engineer Associate** — mastering cloud networking, hybrid connectivity, and secure architectures in Azure | ⚔️ *In Progress* |
+| ![Blue Team Level 1](https://img.shields.io/badge/Blue%20Team%20Level%201-0A84FF?style=for-the-badge&logo=hackthebox&logoColor=white) | **Blue Team Level 1 (BTL1)** — developing advanced detection, triage, and incident response skills | ⚔️ *In Progress* |
 
 ---
 
@@ -42,11 +52,10 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 
 | Project | Link | Focus |
 |---------|------|-------|
-| Checkpoint Firewall Tuning | [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
-| Fortigate SD-WAN Hybrid Lab | [View](projects/fortigate_sdwan_lab/README.md) | Cloud Security |
-| Blue Team Labs – BEC-KY | [View](blue_team_labs/bec-ky_btlo/incident_report.md) | Incident Response |
-| Checkpoint API Automation | [View](scripts/checkpoint_api_test.ps1) | Automation |
-| Piggy BTLO Investigation | [View](blue_team_labs/piggy_btlo/README.md) | Network Forensics |
+| Checkpoint Firewall Tuning Matrix | [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
+| Checkpoint API Automation with Powershell | [View](scripts/checkpoint_api_test.ps1) | Automation |
+| Azure Networking Automation Script | [View](projects/fortigate_sdwan_lab/README.md) | Cloud Security Automation |
+| Blue Team Labs Learning Notes| [View](blue_team_labs/README.md) | Security Operations |
 
 ---
 
@@ -62,6 +71,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
