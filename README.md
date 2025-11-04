@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Security-Perimeter_Defense-2e3440?style=flat-square&logo=shield&logoColor=white">
   <img src="https://img.shields.io/badge/Blue_Team-Incident_Response-3b4252?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud-Security-&-Automation-4c566a?style=flat-square&logo=target&logoColor=white">
+  <img src="https://img.shields.io/badge/Cloud_Security-&_Automation-2e3440?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
 
 ---
@@ -54,7 +54,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 |---------|------|-------|
 | Checkpoint Firewall Tuning and Automation| [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
 | Azure Networking Automation | [View](projects/azure_automation/README.md) | Cloud Security Automation |
-| Blue Team Labs Learning Notes| [View](blue_team_labs/README.md) | Security Operations |
+| Blue Team Labs Learning Notes| [View](blue-team-labs/README.md) | Security Operations |
 
 ---
 
@@ -70,6 +70,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
