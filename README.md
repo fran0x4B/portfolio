@@ -18,7 +18,7 @@
 I'm a **Network Security Engineer** specializing in perimeter protection, VPN management, and IPS/IDS tuning using **Check Point** and **Fortigate** technologies.  
 Recently, I've been involved in hybrid cloud integration with **Azure** and SD-WAN deployments, focusing on traffic inspection and segmentation.  
 
-I’m currently transitioning into a **CSIRT Technical Lead** role, deepening my skills in detection engineering, log analysis, and incident response coordination.
+I’m currently transitioning into a **Security Operations/Blue Team** role, deepening my skills in detection engineering, log analysis, and incident response coordination.
 
 ---
 
@@ -61,6 +61,7 @@ I’m currently transitioning into a **CSIRT Technical Lead** role, deepening my
 <p align="center">
   <sub>“Defend, detect, and adapt — security is a continuous process.”</sub>
 </p>
+
 
 
 
