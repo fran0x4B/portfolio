@@ -81,18 +81,3 @@ Automation & threat investigation scripts with Python and Powershell.
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
