@@ -1,15 +1,15 @@
 <h1 align="center"> Francesco Bozzano — fran0x4b</h1>
 
 <p align="center">
-  <em>Network Security Engineer | Blue Team | CSIRT</em>
+  <em>Network Security Engineer | Security Operations Analist</em>
 </p>
 
 <hr style="border: 0.5px solid #4c566a;">
 
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Security-/_Perimeter_Defense-2e3440?style=flat-square&logo=fortinet&logoColor=white">
-  <img src="https://img.shields.io/badge/Blue_Team-Incident_Response-3b4252?style=flat-square&logo=linux&logoColor=white">
-  <img rsrc="https://img.shields.io/badge/Cloud_Security-&_Automation-2e3440?style=flat-square&logo=cloudflare&logoColor=white">
+  <img src="https://img.shields.io/badge/Security_Operations-/_Blue_Team-2e3440?style=flat-square&logo=protonvpn&logoColor=white">
+  <img src="https://img.shields.io/badge/Scripting-/_Automation-2e3440?style=flat-square&logo=python&logoColor=white">
 </p>
 
 ---
@@ -23,16 +23,20 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 ---
 
 ### 🛠️ Core Skills
-- **Network Protocols and Architectures**
-TCP/IP,Routing protocols, VPNs, VLANs and NAT. Experience designing and managing complex network topologies, including LAN, WAN, and SD-WAN.
-- **Network Security**
-Configuration and management of firewalls (Checkpoint, Cisco ASA,Meraki, Fortinet), IDS/IPS. Network segmentation, access control policies, and zero-trust network architecture implementation. 
-- **Cloud Networking**
-Design and implementation of virtual networks in Azure. Experience with Azure VNet Peering, Azure Firewall, and Azure Network Security Groups (NSGs). Integration of on-premises networks with cloud environments, hybrid networking
-- **Log Analysis**
-Network forensics & packet analysis with TCPDUMP and  Wireshark.  
-- **Scripting and Automation**
-Automation & threat investigation scripts with Python and Powershell. 
+- **Network Protocols and Architectures**  
+TCP/IP,Routing protocols, VPNs, VLANs and NAT.  
+Experience designing and managing complex network topologies, including LAN, WAN and SD-WAN.
+- **Network Security**  
+Configuration and management of firewalls (Checkpoint, Cisco ASA,Meraki, Fortinet), IDS/IPS.  
+Network segmentation, access control policies and zero-trust network architecture implementation.  
+- **Cloud Networking**  
+Design and implementation of virtual networks in Azure.  
+Experience with Azure VNet Peering, Azure Firewall, and Azure Network Security Groups (NSGs).  
+Integration of on-premises networks with cloud environments, hybrid networking.
+- **Log Analysis**  
+Network forensics & packet analysis with TCPDUMP and  Wireshark.
+- **Scripting and Automation**  
+Automation & threat investigation scripts with Python and Powershell.
 
 ---
 
@@ -55,11 +59,11 @@ Automation & threat investigation scripts with Python and Powershell.
 
 ### 🗂 Portfolio Projects
 
-| Project | Link | Focus |
-|---------|------|-------|
-| Checkpoint Firewall Tuning and Automation| [View](projects/checkpoint_firewall_tuning/README.md) | IPS Optimization |
-| Azure Networking Automation | [View](projects/azure_automation/README.md) | Cloud Security Automation |
-| Blue Team Labs Learning Notes| [View](blue-team-labs/README.md) | Security Operations |
+| Project | Link | Focus | Status |
+|---------|------|-------|-------|
+| Security Automation & Tuning | [View](projects/checkpoint_firewall_tuning/README.md) | Python & PowerShell scripts for access rules, IPS tuning matrix, and network automation.| 🚧 In Development |
+| Azure Infrastructure as Code | [View](projects/azure_automation/README.md) | Infrastructure-as-Code lab for secure Azure VNets with logging and monitoring automation.| ☁️ Planned |
+| Blue Team Labs Learning Notes| [View](blue-team-labs/README.md) | Safe write-ups and analysis methodologies | 🧠 In Progress |
 
 ---
 
@@ -74,6 +78,7 @@ Automation & threat investigation scripts with Python and Powershell.
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
