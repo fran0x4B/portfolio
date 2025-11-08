@@ -15,10 +15,13 @@
 ---
 
 ### 👋 About Me
-I'm a **Network Security Engineer** specializing in perimeter protection, VPN management, and IPS/IDS tuning using **Check Point** and **Fortigate** technologies.  
-Recently, I've been involved in hybrid cloud integration with **Azure** and SD-WAN deployments, focusing on traffic inspection and segmentation.  
+I'm a **Network Security Engineer** with a strong focus on **perimeter defense, VPN management, and IPS/IDS tuning**, primarily using **Check Point** and **Fortigate** technologies.
+Over the past years, I’ve worked on designing and maintaining secure network infrastructures, optimizing access control policies, and automating configuration tasks to improve operational efficiency.
 
-I’m currently transitioning into a **Security Operations/Blue Team** role, deepening my skills in detection engineering, log analysis, and incident response coordination.
+Recently, my work has expanded into **hybrid cloud environments**, where I’ve been involved in **Azure integrations, SD-WAN deployments**, and **network segmentation** for secure traffic inspection and visibility across on-prem and cloud environments.
+
+I’m now transitioning toward a **Security Operations / Blue Team role** — developing advanced skills in **detection engineering, log correlation** and **incident response coordination**.
+My goal is to bridge network security and operations, focusing on **proactive defense, automation** and **continuous visibility** across the entire attack surface.
 
 ---
 
@@ -78,6 +81,7 @@ Automation & threat investigation scripts with Python and Powershell.
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
