@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Network_Security-/_Perimeter_Defense-2e3440?style=flat-square&logo=fortinet&logoColor=white">
   <img src="https://img.shields.io/badge/Blue_Team-Incident_Response-3b4252?style=flat-square&logo=linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Cloud_Security-&_Automation-2e3440?style=flat-square&logo=cloudflare&logoColor=white">
+  <img rsrc="https://img.shields.io/badge/Cloud_Security-&_Automation-2e3440?style=flat-square&logo=cloudflare&logoColor=white">
 </p>
 
 ---
@@ -23,11 +23,16 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
 ---
 
 ### 🛠️ Core Skills
-- **Check Point** – Access Control, VPN, IPS tuning  
-- **Fortigate** – SD-WAN, Cloud networking, East-West inspection
-- **Microsoft Azure** – Hybrid networking & integration  
-- **Wireshark / TCPDUMP** – Network forensics & packet analysis  
-- **PowerShell / Python** – Automation & threat investigation scripts  
+- **Network Protocols and Architectures**
+TCP/IP,Routing protocols, VPNs, VLANs and NAT. Experience designing and managing complex network topologies, including LAN, WAN, and SD-WAN.
+- **Network Security**
+Configuration and management of firewalls (Checkpoint, Cisco ASA,Meraki, Fortinet), IDS/IPS. Network segmentation, access control policies, and zero-trust network architecture implementation. 
+- **Cloud Networking**
+Design and implementation of virtual networks in Azure. Experience with Azure VNet Peering, Azure Firewall, and Azure Network Security Groups (NSGs). Integration of on-premises networks with cloud environments, hybrid networking
+- **Log Analysis**
+Network forensics & packet analysis with TCPDUMP and  Wireshark.  
+- **Scripting and Automation**
+Automation & threat investigation scripts with Python and Powershell. 
 
 ---
 
@@ -69,6 +74,7 @@ I’m currently transitioning into a **Security Operations/Blue Team** role, dee
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
 
 
