@@ -73,7 +73,7 @@ Automation & threat investigation scripts with Python and Powershell.
 ### 📫 Contact
 
 💼 **LinkedIn:** [Francesco Bozzano](https://www.linkedin.com/in/francescobozzano/)  
-📧 **Email:** [fran0x4b@protonmail.com](mailto:fran0x4b@protonmail.com)
+📧 **Email:** [bozzano.francesco@proton.me](mailto:bozzano.francesco@proton.me)
 
 ---
 
@@ -81,3 +81,4 @@ Automation & threat investigation scripts with Python and Powershell.
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
