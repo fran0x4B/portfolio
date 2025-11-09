@@ -37,7 +37,7 @@
 ## 🌐 Connect with Me
 
 💼 **LinkedIn:** [Francesco Bozzano](https://www.linkedin.com/in/francescobozzano/)  
-📧 **Email:** [fran0x4b@protonmail.com](mailto:fran0x4b@protonmail.com)
+📧 **Email:** [bozzano.francesco@proton.me](mailto:bozzano.francesco@proton.me)
 
 ---
 
