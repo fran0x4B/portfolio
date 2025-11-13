@@ -1,7 +1,7 @@
 <h1 align="center"> Francesco Bozzano — fran0x4b</h1>
 
 <p align="center">
-  <em>Network Security Engineer | Security Operations Analist</em>
+  <em>Network Security Engineer | Security Operations Analyst</em>
 </p>
 
 <hr style="border: 0.5px solid #4c566a;">
@@ -81,4 +81,5 @@ Automation & threat investigation scripts with Python and Powershell.
   <sub>“The true voyage of discovery consists not of going to new places, but of having a new pair of eyes.
 —Marcel Proust”</sub>
 </p>
+
 
