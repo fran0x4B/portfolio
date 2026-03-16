@@ -67,7 +67,7 @@ Automation & threat investigation scripts with Python and Powershell.
 | Security Automation & Tuning | [View](projects/checkpoint_firewall_tuning/README.md) | Python & PowerShell scripts for access rules, IPS tuning matrix, and network automation.| 🚧 In Development |
 | Azure Infrastructure as Code | [View](projects/azure_automation/README.md) | Infrastructure-as-Code lab for secure Azure VNets with logging and monitoring automation.| ☁️ Planned |
 | Blue Team Labs Learning Notes| [View](blue-team-labs/README.md) | Safe write-ups and analysis methodologies | 🧠 In Progress |
-| CHMOD Challenge| [View](https://github.com/fran0x4B/chmod-practice/blob/main/README.md) | Linux CHMOD + CTF Game | 🎯 Finished |
+| Linux Chmod Challenge| [View](https://github.com/fran0x4B/chmod-practice/blob/main/README.md) | Linux Chmod + CTF Game | 🎯 Finished |
 
 ---
 
